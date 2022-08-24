@@ -1,22 +1,26 @@
+/*  grey: #808080
+    light-grey: #D3D3D3
+*/
+
 .profile_img {
     height: 300px;
     width: auto;
     border-radius: 10%;
-    border: 5px solid gray;
+    border: 5px solid #808080;
 }
 
 body {
     display: flex;
     flex-direction: column;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: gray;
+    background-color: #808080;
 }
 
 .top {
     display: flex;
     gap: 25px;
     padding: 25px;
-    background-color: lightgrey;
+    background-color: #D3D3D3;
 }
 
 .top-right {
