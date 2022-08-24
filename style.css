@@ -13,7 +13,7 @@ body div {
     margin: 0 10%;
 }
 
-.top {
+.banner {
     display: flex;
     padding: 2.5%;
     background-color: #D3D3D3;
@@ -27,7 +27,7 @@ body div {
     border: 5px solid #808080;
 }
 
-.top-right {
+.banner-right {
     display:flex;
     flex-direction: column;
     margin: 0;
