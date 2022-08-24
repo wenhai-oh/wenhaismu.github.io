@@ -1,4 +1,20 @@
 .profile_img {
-    height: 400px;
+    height: 300px;
     width: auto;
+    border-radius: 10%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.top {
+    display: flex;
+    gap: 25px;
+}
+
+.top-right {
+    display:flex;
+    flex-direction: column;
 }
