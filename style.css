@@ -15,7 +15,7 @@ body div {
 
 .banner {
     display: flex;
-    padding: 2.5%;
+    padding: 1% 2.5%;
     background-color: #D3D3D3;
     gap: 10px;
 }
