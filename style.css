@@ -2,13 +2,6 @@
     light-grey: #D3D3D3
 */
 
-.profile_img {
-    height: 300px;
-    width: auto;
-    border-radius: 10%;
-    border: 5px solid #808080;
-}
-
 body {
     display: flex;
     flex-direction: column;
@@ -16,14 +9,26 @@ body {
     background-color: #808080;
 }
 
+body div {
+    margin: 0 10%;
+}
+
 .top {
     display: flex;
-    gap: 25px;
-    padding: 25px;
+    padding: 2.5%;
     background-color: #D3D3D3;
+    gap: 10px;
+}
+
+.profile_img {
+    height: auto;
+    width: 450px;
+    border-radius: 10%;
+    border: 5px solid #808080;
 }
 
 .top-right {
     display:flex;
     flex-direction: column;
+    margin: 0;
 }
