@@ -23,7 +23,7 @@ body {
 }
 
 .profile_img {
-    height: auto;
+    height: 250px;
     width: 450px;
     border-radius: 10%;
     border: 5px solid #808080;
@@ -60,4 +60,16 @@ li {
     justify-content: center;
     align-items: center;
     background-color: lightgoldenrodyellow;
+}
+
+.video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    width: 100%;
+}
+
+iframe {
+    width: 50%;
+    height: auto;
 }
