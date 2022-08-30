@@ -36,6 +36,22 @@ body {
     padding: 10px;
 }
 
+p {
+    margin: 10px 0;
+}
+
+li {
+    list-style-position: inside;
+}
+
+.ol_youtube {
+    background-image:url("./images/youtube_icon.png"); 
+    background-size:25px; 
+    background-repeat:no-repeat; 
+    background-position: left center;
+    padding-left: 30px;
+}
+
 .video {
     display: flex;
     flex-direction: column;
