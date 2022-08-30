@@ -16,6 +16,7 @@ body {
 
 .banner {
     display: flex;
+    justify-content: center;
     padding: 1% 2.5%;
     background-color: #D3D3D3;
     gap: 10px;
