@@ -37,6 +37,10 @@ body {
 
 .video {
     display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
     justify-content: center;
     align-items: center;
+    background-color: wheat;
 }
