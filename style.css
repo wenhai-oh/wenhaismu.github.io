@@ -31,5 +31,6 @@ body {
 .banner-right {
     display:flex;
     flex-direction: column;
-    margin: 0;
+    border: 5px solid #808080;
+    padding: 10px;
 }
